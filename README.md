@@ -2,8 +2,9 @@
 
 **A friendship app for university students.** UniFriend helps students meet people at their own university. It uses the familiar swipe mechanic, but for friendship, not dating.
 
-<img src="screenshot.png" alt="UniFriend swipe screen" width="280" align="right" />
-
+<p align="center">
+  <img src="screenshot.png" alt="UniFriend swipe screen" width="260" />
+</p>
 > **Status: in progress.** The core loop (sign-up → profile → swipe → match → chat) works on iOS. Email verification and push notifications are being finished.
 
 ## Why
@@ -21,7 +22,6 @@ University is full of people, yet many students stay strangers, especially in le
 - **Email verification:** a 6-digit code, stored hashed, valid for 10 minutes, max. 5 attempts *(in progress)*
 - **Push notifications** for new matches and messages *(in progress)*
 
-<br clear="right" />
 
 ## Tech stack
 
